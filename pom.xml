@@ -6,6 +6,7 @@
         <module>nacos-config-client</module>
         <module>nacos-consumer</module>
         <module>nacos-provide</module>
+        <module>nacos-fegin</module>
     </modules>
     <groupId>com.github</groupId>
     <artifactId>nacos-all</artifactId>
